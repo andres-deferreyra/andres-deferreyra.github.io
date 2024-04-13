@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "Andres de Ferreyra",
+    "label": "Strategic Business Management and Ad Tech Specialist",
+    "image": "https://media.licdn.com/dms/image/D5603AQFmn_UQggMQng/profile-displayphoto-shrink_400_400/0/1713032845270?e=1718236800&v=beta&t=G_t-mz-yDHCaBh0zUYmeAi8RHl1c5UxrOuII_Cp3fi0",
+    "email": "andres.de.ferreyra@gmail.com",
+    "phone": "(54) 9 11 2469-7598",
+    "url": "https://www.linkedin.com/in/andres-de-ferreira/",
+    "summary": "Proficient professional with extensive experience in business management strategies and ad tech solutions. High-level qualifications for analyzing market dynamics, developing expansion strategies, and maximizing the effectiveness of advertising campaigns. Utilizes data-driven insights to determine goals and communicate effectively with diverse teams to meet shared objectives. Able to pursue progress for balanced business growth.",
+    "location": {
+      "address": "Matheu",
+      "postalCode": "B1665",
+      "city": "Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Andres de Ferreyra",
+        "url": "https://www.linkedin.com/in/andres-de-ferreira/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Dapps Factory",
+      "position": "Ad Techical Specialist",
+      "url": "https://dappsfactory.io/",
+      "startDate": "2023-11",
+      "endDate": null,
+      "summary": "During my path as Ad Technical Specialist, my responsibilities include end-to-end management of digital advertising campaigns, using my knowledge of ad tech platforms, data analytics, and tracking solutions. I work with teams across functions to drive performance inside campaigns from satisfactory to exceptional levels, and assure the synergy of various channels. I also shared my ideas about what brings successful advertising and how they can apply to different business goals. I am constantly learning and following the latest news and insights.",
+      "highlights": [
+        "End-to-End Campaign Management: Led comprehensive management of digital advertising campaigns, utilizing expertise in ad tech platforms and data analytics to optimize performance.",
+        "Collaborative Leadership: Fostered cross-functional collaboration to elevate campaign performance, ensuring synergy across diverse channels and driving results from satisfactory to exceptional levels.",
+        "Strategic Insights: Shared insights on successful advertising strategies applicable to diverse business objectives, contributing valuable perspectives to campaign development and optimization.",
+        "Continuous Learning: Committed to ongoing learning and staying updated with the latest industry news and insights, maintaining a proactive approach to professional development and innovation."
+      ]
+    },
+    {
+      "name": "Appen",
+      "position": "Business Management Analyst",
+      "url": "https://www.appen.com/",
+      "startDate": "2020-02",
+      "endDate": "2023-08",
+      "summary": "I led strategic initiatives to streamline operations, optimize resource allocation, and enhance profitability. Conducted in-depth market research, analyzed data trends, and provided actionable insights.",
+      "highlights": [
+        "Strategic Leadership: Spearheaded initiatives to streamline operations, demonstrating proficiency in strategic planning and execution.",
+        "Data-Driven Decision-Making: Conducted thorough market research and data analysis, translating findings into actionable insights to drive informed decision-making.",
+        "Profitability Optimization: Successfully optimized resource allocation and enhanced profitability through targeted strategies, showcasing a strong focus on driving sustainable business growth."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Udemy",
+      "url": null,
+      "area": "Ad Technical Specialist",
+      "studyType": "Course",
+      "startDate": "2024-02",
+      "endDate": "2024-05",
+      "score": "10.0"
+    },
+    {
+      "institution": "UNIMI",
+      "url": null,
+      "area": "Business Management",
+      "studyType": "Degree",
+      "startDate": "2019-09",
+      "endDate": "2023-08",
+      "score": "8.0"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Ad Tech Expertise:",
+      "names": ["Google Ads", "Meta Ads", "Trafficking", "Creative Optimization"]
+    },
+    {
+      "category": "Data Analytics:",
+      "names": ["Data Analysis"]
+    },
+    {
+      "category": "Campaign Optimization:",
+      "names": ["Performance Optimization"]
+    },
+    {
+      "category": "Cross-Functional Collaboration:",
+      "names": ["Team Synergy Development"]
+    },
+    {
+      "category": "Continuous Learning and Development",
+      "names": ["Industry Trends Tracking"]
+    },
+    {
+      "category": "Business Management",
+      "names": ["Strategic Planning", "Fraud Detection"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "Horacio Lampe",
+      "reference": "Andres is a person committed to his work and a good partner. I had the opportunity to accompany him during his course at the UNIMI, where I saw reflected his level and his ability to deal with projects in a self-taught way, always being present to help a colleague. I think he has great potential to continue growing in the IT field."
+    }
+  ],
+  "projects": []
+}
