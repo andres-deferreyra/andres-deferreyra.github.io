@@ -55,7 +55,7 @@
     {
       "institution": "Udemy",
       "url": null,
-      "area": "Ad Technical Specialist",
+      "area": "Digital Marketing",
       "studyType": "Course",
       "startDate": "2024-02",
       "endDate": "2024-05",
@@ -73,28 +73,28 @@
   ],
   "skills": [
     {
-      "category": "Ad Tech Expertise:",
+      "category": "Ad Tech Expertise",
       "names": ["Google Ads", "Meta Ads", "Trafficking", "Creative Optimization"]
     },
     {
-      "category": "Data Analytics:",
-      "names": ["Data Analysis"]
+      "category": "Data Analytics",
+      "names": ["Data Analysis", "Matplotlib", "Excel", "PowerBI", "Tableau", "SQL", "Databases"]
     },
     {
-      "category": "Campaign Optimization:",
-      "names": ["Performance Optimization"]
+      "category": "Campaign Optimization",
+      "names": ["Performance Optimization", "Conversion Rate Optimization (CRO)", "Performance Tracking and Reporting"]
     },
     {
-      "category": "Cross-Functional Collaboration:",
-      "names": ["Team Synergy Development"]
+      "category": "Cross-Functional Collaboration",
+      "names": ["Team Synergy Development", "Leadership", "Problem-Solving", "Communication"]
     },
     {
       "category": "Continuous Learning and Development",
-      "names": ["Industry Trends Tracking"]
+      "names": ["Industry Trends Tracking", "Copywriting", "Critical Thinking", "Time Management"]
     },
     {
       "category": "Business Management",
-      "names": ["Strategic Planning", "Fraud Detection"]
+      "names": ["Strategic Planning", "Fraud Detection", "Self-Motivation", "Risk Management"]
     }
   ],
   "languages": [
